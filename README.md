@@ -1,2 +1,3 @@
-# Mergeshort
-program to shorting the number 
+//# Mergeshort
+//program to shorting the number 
+
